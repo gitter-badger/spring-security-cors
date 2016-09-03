@@ -1,5 +1,7 @@
 # spring-security-cors
 
+[![Join the chat at https://gitter.im/arpitaggarwal/spring-security-cors](https://badges.gitter.im/arpitaggarwal/spring-security-cors.svg)](https://gitter.im/arpitaggarwal/spring-security-cors?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://api.travis-ci.org/arpitaggarwal/spring-security-cors.svg?branch=master)](https://travis-ci.org/arpitaggarwal/spring-security-cors)
 
 ### Download Vega
