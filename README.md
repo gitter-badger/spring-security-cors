@@ -1,5 +1,7 @@
 # spring-security-cors
 
+[![Build Status](https://api.travis-ci.org/arpitaggarwal/spring-security-cors.svg?branch=master)](https://travis-ci.org/arpitaggarwal/spring-security-cors)
+
 ### Download Vega
 
  - https://subgraph.com/vega/
